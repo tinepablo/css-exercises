@@ -1,1 +1,25 @@
 /* Add CSS Styling */
+
+p {
+  font-family:
+    verdana,
+    deja vu,
+    sans-serif;
+  background-color: #faa7a7;
+}
+
+.cool {
+  font-size: 24px;
+}
+
+#number-2 {
+  color: blue;
+  font-weight: bold;
+  font-size: 36px;
+}
+
+#number-4 {
+  font-weight: bold;
+  font-size: 24px;
+  background-color: rgb(123, 255, 123);
+}
